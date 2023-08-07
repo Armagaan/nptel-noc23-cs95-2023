@@ -1,2 +1,5 @@
-# nptel-noc23-cs95-2023
-Solutions pertaining to live sessions of noc23-cs95 (Programming, data structures and algorithms with python.
+![Thumbnail](./Thumbnail.png)
+## Course code: noc23-cs95
+- Course website
+- This repository contains the solutions pertaining to problems discussed in the live sessions.
+- You'll find the recordings at [this link](https://www.youtube.com/playlist?list=PL5W8dm-g-BcJnRFQeBMMWtIXlZOokcNUD).
