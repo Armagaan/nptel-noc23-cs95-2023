@@ -1,6 +1,5 @@
 import os
 
-# Pseudocode:
 def read_last_n_lines(filepath, N):
     newlines_seen = 0
     with open(filepath, "rb") as file:

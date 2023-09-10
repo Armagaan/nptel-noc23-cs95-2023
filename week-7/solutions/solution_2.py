@@ -1,4 +1,3 @@
-import datetime
 from account import Account
 
 jhon = Account(id=0, log_dir="log")
